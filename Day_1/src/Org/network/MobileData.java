@@ -1,0 +1,9 @@
+package Org.network;
+
+public class MobileData {
+	
+	public void dataName() {
+		System.out.println("Data Name: All detail");	
+		}
+
+}
